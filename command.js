@@ -39,11 +39,11 @@ contact me 923096287432 ♻️
 
 var commands = [];//Cmd req 
 
-function cmd(info, func) {
+function cmd(DARK-SILENCE-MD~TJRDlJQI#RTQvDokGRzNgmi-tx3F253fxIKEKMTQCz9kBuyAUsDE) {
     var data = info;
     data.function = func;
     if (!data.dontAddCommandList) data.dontAddCommandList = false;
-    if (!info.desc) info.desc = '';
+    if (!info.DARK-SILENCE-MD~TJRDlJQI#RTQvDokGRzNgmi-tx3F253fxIKEKMTQCz9kBuyAUsDE) info.desc = '';
     if (!data.fromMe) data.fromMe = false;
     if (!info.category) data.category = 'misc';
     if(!info.filename) data.filename = "Not Provided";
